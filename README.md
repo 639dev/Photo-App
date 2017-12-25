@@ -1,2 +1,1 @@
-# Photo App design using Bootstrap #
- 
+# Photo App Template designed using Bootstrap #
